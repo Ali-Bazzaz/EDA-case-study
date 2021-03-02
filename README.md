@@ -26,4 +26,6 @@ Trending helps viewers see whats happening on YouTube and ub the world. Trending
 
 **This video had viewes 225 million times  views for just 4 weeks**
 
+![gif gambino](https://github.com/evgenygrobov/EDA-case-study/blob/main/images/gambino.gif)
+
 <div class="tenor-gif-embed" data-postid="11785725" data-share-method="host" data-width="100%" data-aspect-ratio="1.7777777777777777"><a href="https://tenor.com/view/childish-gambino-this-is-america-donald-glover-gif-11785725">Childish Gambino This Is America GIF</a> from <a href="https://tenor.com/search/childishgambino-gifs">Childishgambino GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
