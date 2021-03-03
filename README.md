@@ -44,7 +44,7 @@ Interestingly, what enabled such a tremendous growth? I assumed that video went 
 ![image of total views plot](https://github.com/evgenygrobov/EDA-case-study/blob/main/images/total_views_plot.png)
 
 ### Here top 10 videos from YouTube trend in 2017-18
-![image of top 10 content]()
+![image of top 10 content](https://github.com/evgenygrobov/EDA-case-study/blob/main/images/top10_wereintrend.png)
 
 
 ## Conlusion
@@ -60,9 +60,9 @@ Lastly, lets see views & likes count by category. But this time, beacause we kno
 ```data.groupby('category_name').agg('median').sort_values(by='views',ascending=False)```
 
 ### Here we can see views & likes by category
-![image of likes&views]()
+![image of likes&views](https://github.com/evgenygrobov/EDA-case-study/blob/main/images/likes_views_category.png)
 
-Clearly, Gaming and Music category lead the group with more views. Keep in mind, if you want to start doing business on YouTube, that not all videos went viral!
+Clearly, Gaming and Music category lead the group with more views. Keep in mind, if you want to start doing business on YouTube, that not all videos went viral! 
 
 
 
